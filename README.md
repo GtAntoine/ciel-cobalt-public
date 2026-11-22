@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="./public/images/header.jpg" alt="Roxy, la pilote de Ciel Cobalt, bras croisés devant son chasseur en voxels sur le pont d'un porte-avions au coucher du soleil" width="100%" />
+  <img src="./public/images/header.jpg" alt="Ciel Cobalt : le chasseur Martin-pêcheur fonce sur le Verrou, boss mécanique agrippé à la crête d'un barrage de 108 mètres, en voxels" width="100%" />
 </div>
 
 ---
